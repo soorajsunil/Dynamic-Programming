@@ -1,4 +1,4 @@
-# Dynamic-Programming
+# Dynamic Programming Tutorial 
 [1] Bellman, Richard. "On the approximation of curves by line segments using dynamic programming." Communications of the ACM 4.6 (1961): 284. 
 
 [2] Stone, Henry. "Approximation of curves by line segments." Mathematics of Computation 15.73 (1961): 40-47.
